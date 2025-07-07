@@ -1,3 +1,11 @@
 body{
     background: #BDBDBD;
 }
+
+.tag-font{
+     height: 57vh;
+      justify-content: center;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+      place-content: center;
+      background-size: cover;
+}
