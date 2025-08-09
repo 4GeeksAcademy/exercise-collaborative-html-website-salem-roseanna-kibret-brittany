@@ -1,9 +1,12 @@
+# ![Build Status](https://github.com/4GeeksAcademy/exercise-collaborative-html-website-salem-roseanna-kibret-brittany/actions/workflows/validate-integrity.yml/badge.svg)
+
 <!-- hide -->
+
 # Making a website as a team (Git collaboration)
+
 <!-- endhide -->
 
 Practice your skills in Git while developing a typical website.
-
 
 Each student works on a different file, for a different part of the website, and the most senior can work as Team Leader (for integration and deployment), unless the teacher prefers to be the team leader of the whole class. The Html-Template-Engine library will take care of putting all the pieces together.
 
@@ -19,7 +22,7 @@ Each student works on a different file, for a different part of the website, and
 $ npx http-server --yes -c-1
 ```
 
-+ You will be given an option to open in browser, and have options to view the new site, what it should look like, and a reference to each part of the page. If you receive an error, wait a moment and refresh.
+- You will be given an option to open in browser, and have options to view the new site, what it should look like, and a reference to each part of the page. If you receive an error, wait a moment and refresh.
 
 4. To start, each member should put their name in the file they have been assigned, `push` back to the repository, and `pull` to see the others changes. Maintaining clear communication about the files being used will make the project run smooth 🙂
 
